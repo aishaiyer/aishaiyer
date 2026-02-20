@@ -17,7 +17,7 @@ I’m currently expanding my applied ML skillset through focused projects in:
 
 ---
 
-## 🔬 Background
+##  Background
 
 My research career focused on:
 
@@ -31,7 +31,7 @@ This foundation naturally extends to modern ML and AI systems.
 
 ---
 
-## 🚀 Portfolio Projects
+##  Portfolio Projects
 
 | Project | Focus | Methods |
 |--------|-------|---------|
@@ -43,7 +43,7 @@ This foundation naturally extends to modern ML and AI systems.
 
 ---
 
-## 🧠 Skills Demonstrated in Projects
+##  Skills Demonstrated in Projects
 
 **Programming & Tools**  
 Python, NumPy, Pandas, SciPy, scikit-learn, PyTorch, Jupyter, Git
@@ -59,7 +59,7 @@ Reproducibility, clean code, model diagnostics, interpretable results
 
 ---
 
-## 📈 What I Care About
+##  What I Care About
 
 Building ML systems that are:
 
@@ -70,7 +70,7 @@ Building ML systems that are:
 
 ---
 
-## 🤝 Connect
+## Connect with me:
 LinkedIn: www.linkedin.com/in/aishaiyer
 Email: aishwarya.iyer@nasa.gov | aishwarya.iyer.phd@gmail.com  
 
