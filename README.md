@@ -12,7 +12,6 @@ I’m currently expanding my applied ML skillset through focused projects in:
 
 - Deep Learning (PyTorch)
 - Computer Vision (CNNs)
-- Natural Language Processing (NLP)
 - Interpretable & Robust ML
 - Uncertainty-aware modeling
 
@@ -37,7 +36,6 @@ This foundation naturally extends to modern ML and AI systems.
 | Project | Focus | Methods |
 |--------|-------|---------|
 | **CNN Image Classifier (PyTorch)** | Computer Vision | CNNs, training loops, evaluation metrics |
-| **NLP Text Classification** | NLP | TF-IDF, embeddings, classifiers |
 | **Air Quality Exposure Modeling** | Applied ML / Stats | Regression, validation, interpretability |
 | **Interpretable ML for Tabular Data** | Explainability | Feature importance, SHAP/LIME |
 | **Uncertainty-Aware Modeling** | Probabilistic ML | Bayesian inference, sensitivity analysis |
@@ -50,7 +48,7 @@ This foundation naturally extends to modern ML and AI systems.
 Python, NumPy, Pandas, SciPy, scikit-learn, PyTorch, Jupyter, Git
 
 **Machine Learning**  
-Regression, Classification, Model Evaluation, Cross-Validation, CNNs, NLP
+Regression, Classification, Model Evaluation, Cross-Validation, CNNs
 
 **Statistics & Modeling**  
 Probabilistic modeling, Bayesian inference, Uncertainty quantification
