@@ -31,7 +31,7 @@ This foundation naturally extends to modern ML and AI systems.
 
 ---
 
-##  Portfolio Projects
+##  Portfolio Projects (In Progress)
 
 | Project | Focus | Methods |
 |--------|-------|---------|
